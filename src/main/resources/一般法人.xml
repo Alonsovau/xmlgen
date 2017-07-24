@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="gbk" ?>
+
+<package_list version="1.3" from="cfmmc" to="J">
+	
+
+<package seqserial="1" seqno="">
+		<process processid="" processstatus="7" processdate="" processtime="17:07:34" processtype="" businesstype="1" cfmmcreturncode="0" 
+			cfmmcreturnmsg="数据格式检查完成;客户身份验证通过;" exreturncode="" exreturnmsg="">
+		<organ_info 
+		clientregion="1"   
+		clienttype="" 
+		futuresid="00001513" 
+		exchangeid="J" 
+		companyid="2366" 
+		excompanyid="" 
+		exclientidtype="" 
+		exclientid="" 
+		clientname=""
+		idtype=""  
+		nocid="" 
+		classify=""
+    appropriatype="1"
+		licenseno="11100营业执照号20" 
+		compclientid="11资金帐号20" 
+		organtype="14316" 
+		taxno="000000税务号20" 
+		registrycapital="660000000000.00" 
+		legalperson="jams.harden" 
+		contactperson="联系人姓名20" 
+		phone_countrycode="86" 
+		phone_areacode="021" 
+		phone_number="4445545" 
+		addr_zipcode="20012200" 
+		addr_country="中国" 
+		addr_province="00联系地址" 
+		addr_city="00联系地址中的市" 
+		addr_address="00联系地址中的地址34联系地址中" 
+		auth_name="开户代理人20" 
+		auth_idtype="9" 
+		auth_id="-ddd-d--d20" 
+		auth_phone_countrycode="86" 
+		auth_phone_areacode="0211234567" 
+		auth_phone_number="501609870050160987005016098700" 
+		auth_addr_zipcode="2001228888" 
+		auth_addr_country="中国" 
+		auth_addr_province="开户代理人联系地址" 
+		auth_addr_city="开户代理人联系地址中的city" 
+		auth_addr_address="开户代理人联系地址中的add" 
+		order_name="指定下单人20" 
+		order_idtype="1" 
+		order_id="511423198604150493" 
+		order_phone_countrycode="CNY" 
+		order_phone_areacode="1111111021" 
+		order_phone_number="501609876650160987665016098766" 
+		order_addr_zipcode="200122wwww" 
+		order_addr_country="789456中国" 
+		order_addr_province="指定下单人province" 
+		order_addr_city="指定下单人city" 
+		order_addr_address="指定下单人add" 
+		fund_name="资金调拨人20" 
+		fund_idtype="5" 
+		fund_id="-cccc-ccc20" 
+		fund_phone_countrycode="86" 
+		fund_phone_areacode="2222222021" 
+		fund_phone_number="225016098722501609872250160987" 
+		fund_addr_zipcode="2001221010" 
+		fund_addr_country="中国" 
+		fund_addr_province="资金调拨人pro" 
+		fund_addr_city="资金调拨人city" 
+		fund_addr_address="资金调拨人address" 
+		bill_name="结算单确认人20" 
+		bill_idtype="7"
+		bill_id="-vvv-v-v-20" 
+		bill_phone_countrycode="3333333386" 
+		bill_phone_areacode="3333333021" 
+		bill_phone_number="995500987" 
+		bill_addr_zipcode="2001224444" 
+		bill_addr_country="中国" 
+		bill_addr_province="结算单确认人pro" 
+		bill_addr_city="结算单确认人city" 
+		bill_addr_address="结算单确认人address">
+				<bankacc_list>
+					<bankacc accountname="账户户名20" bankid="02" accountno="3241254357720" branchname="开户网20"/>				
+				</bankacc_list>
+				<businessrange_list>
+					<businessrange industryid="103138"/>
+				</businessrange_list>
+				<exchange_spec>
+					<question question_id="2" content="客户所开户的营业部代码">
+						<option option_id="" option_content="大连营业部" is_selected="1"/>
+					</question>
+				</exchange_spec>
+			</organ_info>			
+		</process>
+	</package>
+
+
+
+</package_list>

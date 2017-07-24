@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="gbk" ?>
+<!--<!DOCTYPE package_list SYSTEM "client-management.dtd">  -->
+<package_list version="1.3" from="cfmmc" to="J">
+	
+
+<package seqserial="1" seqno="">
+		<process processid="" processstatus="7" processdate="" processtime="17:07:34" processtype="" businesstype="1" cfmmcreturncode="0" 
+			cfmmcreturnmsg="数据格式检查完成;客户身份验证通过;" exreturncode="" exreturnmsg="">
+		<specialorgan_info 
+		clienttype="" 
+		futuresid="0072329900723299" 
+		exchangeid="J" 
+		companyid="2366" 
+		excompanyid="" 
+		exclientidtype="" 
+		exclientid="" 
+		exclientidrefname=""  
+		clientname="" 
+		clientname_eng="" 
+		nocid="" 
+		nocid_extracode="" 
+		classify=""
+		department_code=""		 
+		department_name="总部"
+		capital_scale="1234567890123.1231" 
+		licenseno="-yingyezhizhao" 
+		compclientid="100105217100105217x" 
+		organtype="110" 
+		registry_currency="CNY" 
+		registrycapital="8888888888889.88"
+		taxno=""
+		email="" 
+		phone_countrycode="" 
+		phone_areacode="" 
+		phone_number="" 
+		addr_zipcode="9999999999" 
+		addr_country="中国" 
+		addr_province="156530000" 
+		addr_city="156530100" 
+		addr_address="深南大道401号时代金融中心17楼" 
+		legalperson="梨花-法人1"
+		legal_idtype="9" 
+		legal_id="d-1301011379728447" 
+		legal_phone_countrycode="086" 
+		legal_phone_areacode="110" 
+		legal_phone_number="1830255591"  
+		registry_addr_country="CHN1234567" 
+		registry_addr_province="province12" 
+		registry_addr_city="city123456" 
+		registry_addr_address="南宝路7号证券大厦4楼" 
+		ledger_manage_name="guan19" 
+		ledger_manage_id="" 
+		directional_asset_clienttype="2" 
+		ledger_manage_bank="中国光大银行股份有限公司北京金融街支行" 
+		ledger_manage_bankacc="3529018800007324880000732" 
+		invest_variety="贵金属"  
+		invest_scale="99.99" 
+		duration_startdate="2017-03-21" 
+		duration_enddate="2020-12-10" 
+		ledger_contact="特殊法人开户-分管负责人1" 
+		leg_idtype="9" 
+		leg_id="-xxx-1301011379728447" 
+		leg_phone_countrycode="086" 
+		leg_phone_areacode="0755" 
+		leg_phone_number="82756454" 
+		auth_name="开户代理人1" 
+		auth_idtype="5" 
+		auth_id="-mm0dd1301011379728447" 
+		auth_phone_countrycode="086" 
+		auth_phone_areacode="555" 
+		auth_phone_number="830123456" 
+		auth_addr_zipcode="1231236666" 
+		auth_addr_country="CHN" 
+		auth_addr_province="156320000" 
+		auth_addr_city="156320200" 
+		auth_addr_address="南宝路3号证券大厦" 
+		order_name="指定下单人1" 
+		order_idtype="7" 
+		order_id="-wwww1301011379728447" 
+		order_phone_countrycode="86" 
+		order_phone_areacode="0455" 
+		order_phone_number="83025901"
+		 order_addr_zipcode="1231238888" 
+		 order_addr_country="中国" 
+		 order_addr_province="156320000" 
+		 order_addr_city="156320300" 
+		 order_addr_address="南宝路3号证券" 
+		 fund_name="资金调拨人1" 
+		 fund_idtype="12" 
+		 fund_id="--sss-1301011379728447" 
+		 fund_phone_countrycode="086" 
+		 fund_phone_areacode="0265" 
+		 fund_phone_number="1123456" 
+		 fund_addr_zipcode="1231237" 
+		 fund_addr_country="中国" 
+		 fund_addr_province="156320000" 
+		 fund_addr_city="156320100" 
+		 fund_addr_address="南宝路6号大厦4楼" 
+		 bill_name="结算单确认人1" 
+		 bill_idtype="9" 
+		 bill_id="-aaaaa-1301011379728447" 
+		 bill_phone_countrycode="086" 
+		 bill_phone_areacode="3455" 
+		 bill_phone_number="21228302" 
+		 bill_addr_zipcode="3123123" 
+		 bill_addr_country="中国" 
+		 bill_addr_province="156320000" 
+		 bill_addr_city="156320400"
+		 bill_addr_address="南宝路6号证券大厦4楼南4楼" 
+		 has_share_holders="1" 
+		 has_fund_mgr="1" 
+		 fund_mgr_name="1"  
+		 fund_mgr_idtype="2"  
+		 fund_mgr_id="f-1301011379728447"  
+		 fund_mgr_countrycode="86"  
+		 fund_mgr_areacode="031"  
+		 fund_mgr_phone="56465233"  
+		 fund_mgr_addr_country="中国"  
+		 fund_mgr_addr_province="156110000"  
+		 fund_mgr_addr_city="156110100" 
+		 fund_mgr_addr="sdfsf"  
+		 has_invest_adv="1" 
+		 invest_adv_name="11"  
+		 invest_adv_idtype="3"  
+		 invest_adv_id="11-1301011379728447"  
+		 invest_adv_countrycode="86"  
+		 invest_adv_areacode="021"  
+		 invest_adv_phone="23123321"  
+		 invest_adv_addr_country="中国"  
+		 invest_adv_addr_province="156120000"  
+		 invest_adv_addr_city="156120100"  
+		 invest_adv_addr="啊睡觉电光火石"
+		 has_trustee="1" 
+		 trustee_name="托（保）管人名称1" 
+		 trustee_nocid="" 
+		 trustee_regcurrency="" 
+		 trustee_regcapital="" 
+		 trustee_licenseno="" 
+		 trustee_taxno="" 
+		 trustee_bank="" 
+		 trustee_bankacc="" 
+		 trustee_country="" 
+		 trustee_province="" 
+		 trustee_city="" 
+		 trustee_address="" 
+		 trustee_zipcode="" 
+		 trustee_legalperson="" 
+		 trustee_legal_idtype="" 
+		 trustee_legal_id="" 
+		 trustee_legal_phone_countrycode="" 
+		 trustee_legal_phone_areacode="" 
+		 trustee_legal_phone_number="" 
+		 trustee_auth_name="" 
+		 trustee_auth_idtype="" 
+		 trustee_auth_id="" 
+		 trustee_auth_phone_countrycode="" 
+		 trustee_auth_phone_areacode="" 
+		 trustee_auth_phone_number="" 
+		 trustee_contact_name="" 
+		 trustee_contact_idtype="" 
+		 trustee_contact_id="" 
+		 trustee_contact_phone_countrycode="" 
+		 trustee_contact_phone_areacode="" 
+		 trustee_contact_phone_number="">
+				<bankacc_list>
+					<bankacc accountname="金元证券股份有限公司19" 
+						bankid="09" accountno="11元国19191919" 
+						branchname="35290188000073247311919"/>
+					<bankacc accountname="金元证券股份有限公司19" 
+						bankid="08" accountno="22元191919" 
+						branchname="3529018800007324731819"/>
+				</bankacc_list>
+				<businessrange_list>
+					<businessrange industryid="100101102107"/>
+					<businessrange industryid="100101102113"/>
+				</businessrange_list>
+				<ledgerrefgoodsacc_list>
+					<ledgerrefbankacc accounttype="5" bankaccount="1199068850089906885019"/>
+					<ledgerrefbankacc accounttype="7" bankaccount="11590688500868885019"/>
+				</ledgerrefgoodsacc_list>
+				<share_holder_list>
+			<!-- share_holder_type="3"才允许有子节点 -->
+			<share_holder share_holder_type="3" share_holder_name="a" share_holder_idtype="50" share_holder_id="bnh-123" share_holding_ratio="123.123"      share_holding_amount="1234567891456.232564" product_mgr_name="fff" product_code="ddd" product_scale="1234567890125.123654897">				
+				<share_holder share_holder_type="1" share_holder_name="b" share_holder_idtype="1" share_holder_id="nbjh-12312" share_holding_ratio="999.99" share_holding_amount="1234567891456.232564" product_mgr_name="fff" product_code="ddd" product_scale="1234567890125.123654897"/>				
+				<share_holder share_holder_type="3" share_holder_name="c" share_holder_idtype="51" share_holder_id="bhj-12312" share_holding_ratio="99.99" share_holding_amount="1234567891456.232564" product_mgr_name="fff" product_code="ddd" product_scale="1234567890125.123654897">		
+					<share_holder share_holder_type="2" share_holder_name="d" share_holder_idtype="99" share_holder_id="fgh-12312" share_holding_ratio="100.00" share_holding_amount="1234567891456.232564" product_mgr_name="fff" product_code="ddd" product_scale="1234567890125.123654897"/>
+				</share_holder>
+			</share_holder>
+			<share_holder share_holder_type="3" share_holder_name="e" share_holder_idtype="x" share_holder_id="2222nm-23" share_holding_ratio="432.25"      share_holding_amount="1234567891456.232564" product_mgr_name="fff" product_code="ddd" product_scale="1234567890125.123654897">				
+				<share_holder share_holder_type="2" share_holder_name="f" share_holder_idtype="50" share_holder_id="mhj1231-123" share_holding_ratio="98.2" share_holding_amount="1234567891456.232564" product_mgr_name="fff" product_code="ddd" product_scale="1234567890125.123654897"/>				
+				<share_holder share_holder_type="3" share_holder_name="g" share_holder_idtype="51" share_holder_id="vhjg-12321" share_holding_ratio="0.00" share_holding_amount="1234567891456.232564" product_mgr_name="fff" product_code="ddd" product_scale="1234567890125.123654897">		
+					<share_holder share_holder_type="1" share_holder_name="h" share_holder_idtype="2" share_holder_id="hvhjg-21312" share_holding_ratio="0.25" share_holding_amount="1234567891456.232564" product_mgr_name="fff" product_code="ddd" product_scale="1234567890125.123654897"/>
+				</share_holder>
+			</share_holder>			
+		</share_holder_list>
+			</specialorgan_info>
+		</process>
+	</package>
+
+
+
+</package_list>

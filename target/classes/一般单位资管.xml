@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="gbk" ?>
+<!DOCTYPE package_list SYSTEM "client-management.dtd">
+<package_list version="1.3" from="cfmmc" to="J">
+
+		<package seqserial="1" seqno="">
+		<process processid="" processstatus="7" processdate=""  processtime="17:07:34"  processtype=""  businesstype="1" 
+			cfmmcreturncode="0" cfmmcreturnmsg="数据格式检查完成;客户身份验证通过;" exreturncode="" exreturnmsg="">
+		<asset_info 
+			clientregion="" 
+			nationality="" 
+			clienttype=""
+			assetmgr_clienttype=""  
+			futuresid="9990071099900710" 
+			exchangeid="J" 
+			companyid="0017" 
+			excompanyid=""  
+			exclientidtype="" 
+			exclientid="" 
+			clientname="" 
+			idtype="" 
+			id_original="511423860119007" 
+			id_transformed="620101198603240331"  
+			nocid="" 
+			nocid_extracode="" 
+			classify=""
+			ledger_manage_name=""
+			birthday="1987-09-04" 
+			gender="1"
+			licenseno="licenseno123456licenseno123456" 
+			compclientid="534255234523kkk88kkk" 
+			organtype="400" 
+			taxno="taxno998820120taxno9988201204512" 
+			registry_currency="CAD" 
+			registrycapital="987654321000.88" 
+			legalperson=""  
+			contactperson="" 
+			phone_countrycode="86" 
+			phone_areacode="1234567021" 
+			phone_number="222211110022221111002222111100" 
+			addr_zipcode="2008888122" 
+			addr_country="中国123456" 
+			addr_province="15611000015611000044" 
+			addr_city="15611010615611010622" 
+			addr_address="注册/联系地址中的地址" 
+			assetmgr_type="2" 
+			assetmgr_fund="200000000333.66" 
+			assetmgr_starttime="2015-10-15" 
+			assetmgr_expirytime="2019-12-31" 
+			assetmgr_mgr_name="资管业务负责人test" 
+			assetmgr_mgr_phone_countrycode="86" 
+			assetmgr_mgr_phone_areacode="021" 
+			assetmgr_mgr_phone_number="33333" 
+			assetmgr_idtype="9" 
+			assetmgr_id="--qqq-qqqq----" 
+			auth_name="授权人test1" 
+			auth_idtype="9" 
+			auth_id="shou-quan-ren" 
+			auth_phone_countrycode="86" 
+			auth_phone_areacode="8888866666" 
+			auth_phone_number="521478235" 
+			auth_addr_zipcode="4561230000" 
+			auth_addr_country="中国952200" 
+			auth_addr_province="江苏" 
+			auth_addr_city="南京" 
+			auth_addr_address="按顺序1234" 
+			order_name="指定下单人test1" 
+			order_idtype="9" 
+			order_id="zhi-ding-xiadan-ren" 
+			order_phone_countrycode="86" 
+			order_phone_areacode="021" 
+			order_phone_number="5016078950" 
+			order_addr_zipcode="2001111122" 
+			order_addr_country="中国960325" 
+			order_addr_province="15611000015611000015611001561100001561100001561100" 
+			order_addr_city="15611010611101061561101061561101061110106156110106" 
+			order_addr_address="矿石买卖们2334555544" 
+			fund_name="资金调拨人test1" 
+			fund_idtype="9" 
+			fund_id="zjin-tiao-bo-ren" 
+			fund_phone_countrycode="86" 
+			fund_phone_areacode="0217777777" 
+			fund_phone_number="501607895016078950177777760789" 
+			fund_addr_zipcode="0000200122" 
+			fund_addr_country="222233中国" 
+			fund_addr_province="156110000deeeeee156110000deeeeee156110000deeeeee22" 
+			fund_addr_city="156110106wwwwwwww156110106wwwwwwww156110106wwwwwww" 
+			fund_addr_address="12345678阿克" 
+			bill_name="结算单确认人test1" 
+			bill_idtype="9" 
+			bill_id="jiesuan-queren-ren" 
+			bill_phone_countrycode="86" 
+			bill_phone_areacode="021" 
+			bill_phone_number="88501607898" 
+			bill_addr_zipcode="1111200122" 
+			bill_addr_country="中国999966" 
+			bill_addr_province="555wwwww156110000" 
+			bill_addr_city="xxxxxx156110106xxxxxx" 
+			bill_addr_address="444455的3444455"
+		 has_share_holders="1" 
+		 has_fund_mgr="1" 
+		 fund_mgr_name="11"  
+		 fund_mgr_idtype="3"  
+		 fund_mgr_id="sdweweqe"  
+		 fund_mgr_countrycode="086"  
+		 fund_mgr_areacode="12312"  
+		 fund_mgr_phone="12312123123"  
+		 fund_mgr_addr_country="213123"  
+		 fund_mgr_addr_province="12312"  
+		 fund_mgr_addr_city="12312"  
+		 fund_mgr_addr="1312323231311"  
+		 has_invest_adv="1" 
+		 invest_adv_name="12"  
+		 invest_adv_idtype="1"  
+		 invest_adv_id="sweqe"  
+		 invest_adv_countrycode="086"  
+		 invest_adv_areacode="7456"  
+		 invest_adv_phone="4646456456"  
+		 invest_adv_addr_country="567574"  
+		 invest_adv_addr_province="4565464"  
+		 invest_adv_addr_city="4565464"  
+		 invest_adv_addr="46546">
+				<bankacc_list>
+					<bankacc accountname="召开12345656" 
+						bankid="05" accountno="512341543534123415435341234154" 
+						branchname="网点654321"/>
+					<bankacc accountname="召开56456" 
+						bankid="11" accountno="412341543534123415435341234154" 
+						branchname="网点654"/>
+				</bankacc_list>
+				<businessrange_list> 
+					<businessrange industryid="100102109124"/> 
+					<businessrange industryid="100126250500"/> 
+				</businessrange_list> 
+				<exchange_spec>
+					<question question_id="2" content="客户所开户的营业部代码">
+						<option option_id="" option_content="TEST2" is_selected="1"/>
+					</question>
+				</exchange_spec>
+				<trusteebankacc_list>
+					<bankacc 
+						accountname="召开5" 
+						bankid="06" 
+						accountno="521341324132412421341324132412" 
+						branchname="威望1"/>
+					<bankacc 
+						accountname="召开55" 
+						bankid="12" 
+						accountno="421341324132412421341324132412" 
+						branchname="威望12"/>
+				</trusteebankacc_list>
+				<transferbankacc_list>
+					<bankacc 
+						accountname="召开6" 
+						bankid="08" 
+						accountno="523142333313412423142333313412" 
+						branchname="梦想6"/>
+					<bankacc 
+						accountname="召开66" 
+						bankid="01" 
+						accountno="423142333313412423142333313412" 
+						branchname="梦想65"/>
+				</transferbankacc_list>
+				<referencedoc_list>
+					<referencedoc idtype="50" docid="zu-zhi-jigou-daima-"/>
+					<referencedoc idtype="12" docid="hu-zhao"/>
+					<referencedoc idtype="9" docid="hk-lw-nd-txz"/>
+				</referencedoc_list>
+				<share_holder_list>
+			<!-- share_holder_type="3"才允许有子节点 -->
+			<share_holder share_holder_type="3" share_holder_name="a" share_holder_idtype="50" share_holder_id="jghj-22222" share_holding_ratio="13.25"      share_holding_amount="36.654321" product_mgr_name="2dsf3" product_code="f1" product_scale="13.98765321">				
+				<share_holder share_holder_type="2" share_holder_name="b" share_holder_idtype="51" share_holder_id="dsf-sf" share_holding_ratio="10.1" share_holding_amount="" product_mgr_name="" product_code="" product_scale="6.3525"/>				
+				<share_holder share_holder_type="3" share_holder_name="c" share_holder_idtype="99" share_holder_id="2-2sda1323" share_holding_ratio="" share_holding_amount="" product_mgr_name="" product_code="" product_scale="4.25">		
+					<share_holder share_holder_type="1" share_holder_name="d" share_holder_idtype="1" share_holder_id="sdfs-123" share_holding_ratio="3" share_holding_amount="" product_mgr_name="" product_code="" product_scale="6.2"/>
+				</share_holder>
+			</share_holder>
+			<share_holder share_holder_type="2" share_holder_name="e" share_holder_idtype="x" share_holder_id="2-j812391" share_holding_ratio="0" share_holding_amount="1.0" product_mgr_name="" product_code="" product_scale="6.215"/>
+		</share_holder_list>
+			</asset_info>		
+			
+		</process>
+	</package>
+	
+	
+	
+	</package_list>
